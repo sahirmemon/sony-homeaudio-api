@@ -1,5 +1,6 @@
 {
 	"port": 8080,
 	"bodyLimit": "100kb",
-	"corsHeaders": ["Link"]
+	"corsHeaders": ["Link"],
+	"soundbarURL": "http://192.168.1.102:10000/"
 }
